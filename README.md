@@ -40,29 +40,19 @@
 
 ---
 
-### 💻 Front-End Login Interface
-> Designed a modern login interface using **Figma** and built its front-end logic  
-> - 🖼 Built wireframes & mockups in Figma  
-> - ✍️ Handled user input, validation, and state transitions  
-> - 🔧 Used Git for version control and collaboration
-
-🔗 [Project Demo (Optional)](https://github.com/你的项目链接)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LouisZhu040&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisZhu040&layout=compact&theme=tokyonight" width="47%" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- ✉️ Email: your_email@example.com  
-- 🔗 GitHub: [github.com/你的用户名](https://github.com/你的用户名)
+- ✉️ Email: zhuyiming040@gmail.com
+- 🔗 GitHub: [github.com/LouisZhu040] (https://github.com/LouisZhu040)
 
 ---
 
