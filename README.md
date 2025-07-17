@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Yiming Zhu</h1>
-<h3 align="center">An ECE student passionate about Embedded Systems, AI on Edge, and Front-End Development</h3>
+<h1 align="center">Hi 👋, I'm Yiming Zhu</h1>  
+<h3 align="center">An ECE student passionate about Embedded Systems, Edge AI, and Front-End Development</h3>  
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm studying **Electrical and Computer Engineering** at **The Ohio State University**  
-- 📈 GPA: **3.7** | 🤝 I’ve participated in research, internship & team competitions  
-- 🧠 Currently working on an **ESP32-CAM + TinyML gesture recognition project**  
-- 🎨 I have front-end development experience and use **Figma** to design UI  
-- 💼 I built a complete **Login Interface** and managed code with **Git**
+- 🎓 Studying **Electrical and Computer Engineering** at **The Ohio State University**  
+- 📈 GPA: **3.7** | 🤝 Experience in research, internships & team competitions  
+- 🧠 Recently completed an **ESP32-CAM + TinyML gesture recognition project**  
+- 🎨 Front-end development experience; skilled in **Figma** UI design  
+- 💼 Built a complete **Login Interface** and managed code with **Git**
 
 ---
 
@@ -28,16 +28,15 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Completed Projects
 
-### 🔍 ESP32-CAM Gesture Recognition
-> An Edge AI project that uses an ESP32-CAM to recognize a custom hand gesture (e.g., the Chinese character “夜”) and automatically trigger the flashlight.  
-> - 📷 Captures images via MJPEG stream  
-> - 🔁 Sends data to a Flask server for storage and model training  
-> - 🤖 Trains CNN model & deploys using TensorFlow Lite / TinyML  
-> - 🎯 Target: fully on-device recognition
-
-🔗 [Project Repo (Coming Soon)](https://github.com/你的项目链接)
+### 🔍 ESP32-CAM Gesture Recognition  
+An Edge AI project that uses ESP32-CAM and TinyML to recognize a custom hand gesture (e.g., the Chinese character “夜”) and automatically trigger the flashlight.  
+- 📷 Image capture via MJPEG stream  
+- 🔁 Data upload and storage through Flask server  
+- 🤖 CNN model trained and optimized for deployment  
+- 🎯 Fully deployed on-device recognition on ESP32-CAM  
+- ✅ **Project completed successfully**
 
 ---
 
@@ -52,9 +51,7 @@
 
 ## 📫 Contact Me
 
-- ✉️ Email: zhuyiming040@gmail.com
-- 🔗 GitHub: [github.com/LouisZhu040] (https://github.com/LouisZhu040)
+- ✉️ Email: zhuyiming040@gmail.com  
+- 🔗 GitHub: [github.com/LouisZhu040](https://github.com/LouisZhu040)  
 
 ---
-
-_This profile README was generated with ❤️ and Figma sketches._
