@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Studying **Electrical and Computer Engineering** at **The Ohio State University**  
-- 📈 GPA: **3.7** | 🤝 Experience in research, internships & team competitions  
+- 📈 GPA: **3.75** | 🤝 Experience in research, internships & team competitions  
 - 🧠 Recently completed an **ESP32-CAM + TinyML gesture recognition project**  
 - 🎨 Front-end development experience; skilled in **Figma** UI design  
 - 💼 Built a complete **Login Interface** and managed code with **Git**
