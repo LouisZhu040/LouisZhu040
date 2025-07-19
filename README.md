@@ -31,7 +31,7 @@
 ## 🚀 Completed Projects
 
 ### 🔍 ESP32-CAM Gesture Recognition  
-An Edge AI project that uses ESP32-CAM and TinyML to recognize a custom hand gesture (e.g., the Chinese character “夜”) and automatically trigger the flashlight.  
+An Edge AI project that uses ESP32-CAM and TinyML to recognize a victory hand gesture and automatically trigger the flashlight.  
 - 📷 Image capture via MJPEG stream  
 - 🔁 Data upload and storage through Flask server  
 - 🤖 CNN model trained and optimized for deployment  
