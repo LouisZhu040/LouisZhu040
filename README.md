@@ -17,7 +17,7 @@ My interests lie in **system-level AI**, where data pipelines, model architectur
 ## 👨‍💻 About Me
 
 - 🎓 **Electrical and Computer Engineering** @ **The Ohio State University**
-- 📈 GPA: **3.75**
+- 📈 GPA: **3.78**
 - 🔬 Experience in **research projects, internships, and team competitions**
 - 🧠 Strong background in **Computer Vision, Medical Image Computing, and Deep Learning**
 - 🚀 Hands-on experience with **HPC-based multi-node, multi-GPU training**
